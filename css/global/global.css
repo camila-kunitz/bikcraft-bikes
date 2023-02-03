@@ -20,6 +20,7 @@ a {
 
 img {
     max-width: 100%;
+    height: auto; /* vai crescer de acorco com o tamanho das imagens */
     display: block;
 }
 
